@@ -1,0 +1,103 @@
+# Query: augustogomes-ui
+# ContextLines: 1
+
+23 results - 9 files
+
+package-lock.json:
+     28      },
+     29:     "node_modules/@insidexperience-ui/docs": {
+     30        "resolved": "packages/docs",
+
+     32      },
+     33:     "node_modules/@insidexperience-ui/eslint-config": {
+     34        "resolved": "packages/eslint-config",
+
+     36      },
+     37:     "node_modules/@insidexperience-ui/react": {
+     38        "resolved": "packages/react",
+
+     40      },
+     41:     "node_modules/@insidexperience-ui/tokens": {
+     42        "resolved": "packages/tokens",
+
+     44      },
+     45:     "node_modules/@insidexperience-ui/ts-config": {
+     46        "resolved": "packages/ts-config",
+
+  25207      "packages/docs": {
+  25208:       "name": "@insidexperience-ui/docs",
+  25209        "version": "1.0.0",
+
+  25268      "packages/eslint-config": {
+  25269:       "name": "@insidexperience-ui/eslint-config",
+  25270        "license": "MIT",
+
+  25276      "packages/react": {
+  25277:       "name": "@insidexperience-ui/react",
+  25278        "version": "2.1.0",
+
+  25309      "packages/tokens": {
+  25310:       "name": "@insidexperience-ui/tokens",
+  25311        "version": "2.1.0",
+
+  25319      "packages/ts-config": {
+  25320:       "name": "@insidexperience-ui/ts-config",
+  25321        "version": "1.0.0",
+
+  25335      },
+  25336:     "@insidexperience-ui/docs": {
+  25337        "version": "file:packages/docs",
+
+  25388      },
+  25389:     "@insidexperience-ui/eslint-config": {
+  25390        "version": "file:packages/eslint-config",
+
+  25395      },
+  25396:     "@insidexperience-ui/react": {
+  25397        "version": "file:packages/react",
+
+  25423      },
+  25424:     "@insidexperience-ui/tokens": {
+  25425        "version": "file:packages/tokens",
+
+  25431      },
+  25432:     "@insidexperience-ui/ts-config": {
+  25433        "version": "file:packages/ts-config"
+
+.changeset/config.json:
+   9    "updateInternalDependencies": "patch",
+  10:   "ignore": ["@insidexperience-ui/docs"]
+  11  }
+
+packages/docs/package.json:
+  1  {
+  2:   "name": "@insidexperience-ui/docs",
+  3    "version": "1.0.0",
+
+packages/eslint-config/package.json:
+  1  {
+  2:   "name": "@insidexperience-ui/eslint-config",
+  3    "license": "MIT",
+
+packages/react/CHANGELOG.md:
+  1: # @insidexperience-ui/react
+  2  
+
+packages/react/package.json:
+  1  {
+  2:   "name": "@insidexperience-ui/react",
+  3    "version": "2.1.0",
+
+packages/tokens/CHANGELOG.md:
+  1: # @insidexperience-ui/tokens
+  2  
+
+packages/tokens/package.json:
+  1  {
+  2:   "name": "@insidexperience-ui/tokens",
+  3    "version": "2.1.0",
+
+packages/ts-config/package.json:
+  1  {
+  2:   "name": "@insidexperience-ui/ts-config",
+  3    "version": "1.0.0",

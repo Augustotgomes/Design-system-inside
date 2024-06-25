@@ -1,4 +1,4 @@
-# @augustogomes-ui/react
+# @insidexperience-ui/react
 
 ## 2.1.0
 

@@ -1,4 +1,4 @@
-# @augustogomes-ui/tokens
+# @insidexperience-ui/tokens
 
 ## 2.1.0
 
